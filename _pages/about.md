@@ -30,7 +30,7 @@ My research topics are:
 
 # 📖 Educations
 - *2018.08 - 2023.05*, Ph.D., Nanyang Technological University.  
-*thesis: [Enhancing spoken language identification and diarization for multilingual speech](https://dr.ntu.edu.sg/handle/10356/168498)  
+Thesis: [Enhancing spoken language identification and diarization for multilingual speech](https://dr.ntu.edu.sg/handle/10356/168498)  
 - *2017.08 - 2018.05*, Ms.C., Nanyang Technological University.  
 - *2012.09 - 2016.07*, B.Eng, Harbin Institute of Technology.  
 
@@ -57,9 +57,9 @@ My research topics are:
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2023</span> [Reducing Language Confusion for Code-switching Speech Recognition with Token-level Language Diarization](https://ieeexplore.ieee.org/abstract/document/10095878/), **<u>Hexin Liu</u>**, Haihua Xu, Leibny Paola Garcia, Andy WH Khong, Yi He, Sanjeev Khudanpur.
 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Interspeech 2023</span> <span style="color:red">(Oral)</span> [Investigating Model Performance in Language Identification: Beyond Simple Error Statistics](https://arxiv.org/abs/2305.18925), Suzy J. Styles, Victoria Y.H. Chua, Fei Ting Woon, **<u>Hexin Liu</u>**, Leibny Paola Garcia, Sanjeev Khudanpur, Andy W.H. Khong, Justin Dauwels.
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Interspeech 2023</span><span style="color:red">(Oral)</span> [Investigating Model Performance in Language Identification: Beyond Simple Error Statistics](https://arxiv.org/abs/2305.18925), Suzy J. Styles, Victoria Y.H. Chua, Fei Ting Woon, **<u>Hexin Liu</u>**, Leibny Paola Garcia, Sanjeev Khudanpur, Andy W.H. Khong, Justin Dauwels.
 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Interspeech 2023</span> <span style="color:red">(Oral)</span> [MERLIon CCS Challenge: A English-Mandarin code-switching child-directed speech corpus for language identification and diarization](https://arxiv.org/abs/2305.18881), Victoria YH Chua\*, **<u>Hexin Liu</u>\***, Leibny Paola Garcia, Fei Ting Woon, Jinyi Wong, Xiangyu Zhang, Sanjeev Khudanpur, Andy WH Khong, Justin Dauwels, Suzy J Styles.
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Interspeech 2023</span><span style="color:red">(Oral)</span> [MERLIon CCS Challenge: A English-Mandarin code-switching child-directed speech corpus for language identification and diarization](https://arxiv.org/abs/2305.18881), Victoria YH Chua\*, **<u>Hexin Liu</u>\***, Leibny Paola Garcia, Fei Ting Woon, Jinyi Wong, Xiangyu Zhang, Sanjeev Khudanpur, Andy WH Khong, Justin Dauwels, Suzy J Styles.
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Interspeech 2023</span> [Self-supervised Learning Representation based Accent Recognition with Persistent Accent Memory](https://arxiv.org/abs/2405.12609), Rui Li, Zhiwei Xie, Haihua Xu, Yizhou Peng, **<u>Hexin Liu</u>**, Hao Huang, Eng Siong Chng.
 
@@ -67,7 +67,7 @@ My research topics are:
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Odyssey 2022</span> [Enhancing Language Identification using Dual-mode Model with Knowledge Distillation](https://www.researchgate.net/profile/Hexin_Liu6/publication/361591322_Enhancing_Language_Identification_Using_Dual-Mode_Model_with_Knowledge_Distillation/links/639f1bdfe42faa7e75d362df/Enhancing-Language-Identification-Using-Dual-Mode-Model-with-Knowledge-Distillation.pdf), **<u>Hexin Liu</u>**, Hexin Liu, Leibny Paola Garcia, Andy W.H. Khong, Justin Dauwels, Suzy J. Styles, Sanjeev Khudanpur.
 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Interspeech 2022</span> <span style="color:red">(Oral)</span> [PHO-LID: A Unified Model Incorporating Acoustic-Phonetic and Phonotactic Information for Language Identification](https://arxiv.org/abs/2405.12609), **<u>Hexin Liu</u>**, Leibny Paola Garcia Perera, Andy W.H. Khong, Eng Siong Chng, Suzy J. Styles, Sanjeev Khudanpur.
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Interspeech 2022</span><span style="color:red">(Oral)</span> [PHO-LID: A Unified Model Incorporating Acoustic-Phonetic and Phonotactic Information for Language Identification](https://arxiv.org/abs/2405.12609), **<u>Hexin Liu</u>**, Leibny Paola Garcia Perera, Andy W.H. Khong, Eng Siong Chng, Suzy J. Styles, Sanjeev Khudanpur.
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Interspeech 2021</span> [End-to-end language diarization for bilingual code-switching speech](https://www.researchgate.net/profile/Hexin_Liu6/publication/354221085_End-to-End_Language_Diarization_for_Bilingual_Code-Switching_Speech/links/613f238001846e45ef451003/End-to-End-Language-Diarization-for-Bilingual-Code-Switching-Speech.pdf), **<u>Hexin Liu</u>**, Leibny Paola Garcia, Xinyi Zhang, Justin Dauwels, Andy W.H. Khong, Sanjeev Khudanpur, Suzy J. Styles.
 
