@@ -17,42 +17,63 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currently a postdoctoral research fellow with Speech Lab, College of Computing and Data Science, at Nanyang Technological University, supervised by Prof. [Eng Siong Chng](https://scholar.google.com/citations?hl=en&user=FJodrCcAAAAJ).  
+Prior to joining NTU Speech Lab, I received my Ph.D. under the supervision of Prof. [Andy W. H. Khong](https://scholar.google.com/citations?user=qnOioyYAAAAJ&hl=en) (EEE, Nanyang Technological University) and Dr. [Leibny Paola Garcia](https://scholar.google.com/citations?hl=en&user=fAXgPckAAAAJ&view_op=list_works&sortby=pubdate) (CLSP, The Johns Hopkins Univerisity). I work closely with Prof. [Suzy J. Styles](https://scholar.google.com.sg/citations?user=k96cKgsAAAAJ&hl=en) (NTU), Prof. [Sanjeev Khudanpur](https://scholar.google.com/citations?hl=en&user=K-BdgNwAAAAJ&view_op=list_works&sortby=pubdate) (JHU), and Prof. [Shinji Watanabe](https://scholar.google.com/citations?user=U5xRA6QAAAAJ&hl=en) (CMU).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research topics are:
 
+- **Spoken Language Recognition:** Language identification and diarization
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **Speech Recognition:** Code-switching and multilingual speech recognition
+
+- **Large-scale Pre-trained Model:** Adaptation and application methods for large-scale pre-trained models
+
+# 📖 Educations
+- *2018.08 - 2023.05*, Ph.D., Nanyang Technological University.  
+*thesis: [Enhancing spoken language identification and diarization for multilingual speech](https://dr.ntu.edu.sg/handle/10356/168498)  
+- *2017.08 - 2018.05*, Ms.C., Nanyang Technological University.  
+- *2012.09 - 2016.07*, B.Eng, Harbin Institute of Technology.  
+
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Preprint</span> [Mamba in Speech: Towards an Alternative to Self-Attention](https://arxiv.org/abs/2405.12609), Xiangyu Zhang\*, Qiquan Zhang\*, **<u>Hexin Liu</u>\***, Tianyi Xiao, Xinyuan Qian, Beena Ahmed, Eliathamby Ambikairajah, Haizhou Li, Julien Epps.
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Preprint</span> [Aligning Speech to Languages to Enhance Code-switching Speech Recognition](https://arxiv.org/abs/2403.05887), **<u>Hexin Liu</u>**, Xiangyu Zhang, Leibny Paola Garcia, Andy WH Khong, Eng Siong Chng, Shinji Watanabe.
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Preprint</span> [When LLMs Meets Acoustic Landmarks: An Efficient Approach to Integrate Speech into Large Language Models for Depression Detection](https://arxiv.org/abs/2402.13276), Xiangyu Zhang, **<u>Hexin Liu</u>**, Kaishuai Xu, Qiquan Zhang, Daijiao Liu, Beena Ahmed, Julien Epps.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Preprint</span> [Speaking in Wavelet Domain: A Simple and Efficient Approach to Speed up Speech Diffusion Model](https://arxiv.org/abs/2402.10642), Xiangyu Zhang, Daijiao Liu, **<u>Hexin Liu</u>**, Qiquan Zhang, Hanyu Meng, Leibny Paola Garcia, Eng Siong Chng, Lina Yao.
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICNSLP</span> [A Quantitative Approach to Understand Self-Supervised Models as Cross-lingual Feature Extractors](https://arxiv.org/abs/2405.12609), Shuyue Stella Li, Beining Xu, Xiangyu Zhang, **<u>Hexin Liu</u>**, Wenhan Chao, Leibny Paola Garcia.
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Preprint</span> [Generative error correction for code-switching speech recognition using large language models](https://arxiv.org/abs/2311.15954), Chen Chen, Yuchen Hu, Chao-Han Huck Yang, **<u>Hexin Liu</u>**, Sabato Marco Siniscalchi, Eng Siong Chng.
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2024</span> [Enhancing Code-switching Speech Recognition with Interactive Language Biases](https://arxiv.org/pdf/2309.16953), **<u>Hexin Liu</u>**, Leibny Paola Garcia, Xiangyu Zhang, Andy WH Khong, Sanjeev Khudanpur.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2024</span> [Unidirectional brain-computer interface: Artificial neural network encoding natural images to fMRI response in the visual cortex](https://ieeexplore.ieee.org/abstract/document/10446366/), Ruixing Liang, Xiangyu Zhang, Qiong Li, Lai Wei, **<u>Hexin Liu</u>**, Avisha Kumar, Kelley M Kempski Leadingham, Joshua Punnoose, Leibny Paola Garcia, Amir Manbachi.
+
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2023</span> [PQLM - Multilingual Decentralized Portable Quantum Language Model](https://arxiv.org/abs/2405.12609), Shuyue Stella Li, Xiangyu Zhang, Shu Zhou, Hongchao Shu, Ruixing Liang, **<u>Hexin Liu</u>**, Leibny Paola Garcia.
+
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2023</span> [Reducing Language Confusion for Code-switching Speech Recognition with Token-level Language Diarization](https://ieeexplore.ieee.org/abstract/document/10095878/), **<u>Hexin Liu</u>**, Haihua Xu, Leibny Paola Garcia, Andy WH Khong, Yi He, Sanjeev Khudanpur.
+
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Interspeech 2023</span><span style="color:red">(Oral)</span> [Investigating Model Performance in Language Identification: Beyond Simple Error Statistics](https://arxiv.org/abs/2305.18925), Suzy J. Styles, Victoria Y.H. Chua, Fei Ting Woon, **<u>Hexin Liu</u>**, Leibny Paola Garcia, Sanjeev Khudanpur, Andy W.H. Khong, Justin Dauwels.
+
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Interspeech 2023</span><span style="color:red">(Oral)</span> [MERLIon CCS Challenge: A English-Mandarin code-switching child-directed speech corpus for language identification and diarization](https://arxiv.org/abs/2305.18881), Victoria YH Chua\*, **<u>Hexin Liu</u>\***, Leibny Paola Garcia, Fei Ting Woon, Jinyi Wong, Xiangyu Zhang, Sanjeev Khudanpur, Andy WH Khong, Justin Dauwels, Suzy J Styles.
+
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Interspeech 2023</span> [Self-supervised Learning Representation based Accent Recognition with Persistent Accent Memory](https://arxiv.org/abs/2405.12609), Rui Li, Zhiwei Xie, Haihua Xu, Yizhou Peng, **<u>Hexin Liu</u>**, Hao Huang, Eng Siong Chng.
+
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">IEEE JSTSP</span> [Efficient self-supervised learning representations for spoken language identification](https://ieeexplore.ieee.org/abstract/document/9866521/), **<u>Hexin Liu</u>**, Leibny Paola Garcia, Andy W.H. Khong, Eng Siong Chng, Suzy J. Styles, Sanjeev Khudanpur.
+
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Odyssey 2022</span> [Enhancing Language Identification using Dual-mode Model with Knowledge Distillation](https://www.researchgate.net/profile/Hexin_Liu6/publication/361591322_Enhancing_Language_Identification_Using_Dual-Mode_Model_with_Knowledge_Distillation/links/639f1bdfe42faa7e75d362df/Enhancing-Language-Identification-Using-Dual-Mode-Model-with-Knowledge-Distillation.pdf), **<u>Hexin Liu</u>**, Hexin Liu, Leibny Paola Garcia, Andy W.H. Khong, Justin Dauwels, Suzy J. Styles, Sanjeev Khudanpur.
+
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Interspeech 2022</span><span style="color:red">(Oral)</span> [PHO-LID: A Unified Model Incorporating Acoustic-Phonetic and Phonotactic Information for Language Identification](https://arxiv.org/abs/2405.12609), **<u>Hexin Liu</u>**, Leibny Paola Garcia Perera, Andy W.H. Khong, Eng Siong Chng, Suzy J. Styles, Sanjeev Khudanpur.
+
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Interspeech 2021</span> [End-to-end language diarization for bilingual code-switching speech](https://www.researchgate.net/profile/Hexin_Liu6/publication/354221085_End-to-End_Language_Diarization_for_Bilingual_Code-Switching_Speech/links/613f238001846e45ef451003/End-to-End-Language-Diarization-for-Bilingual-Code-Switching-Speech.pdf), **<u>Hexin Liu</u>**, Leibny Paola Garcia, Xinyi Zhang, Justin Dauwels, Andy W.H. Khong, Sanjeev Khudanpur, Suzy J. Styles.
+
+# 🧑‍🔬 Services
+- **Reviewer:**&nbsp; ICASSP (23-24), Interspeech (22-24), ASRU (22-24), SLT (22-24), TASLP, SPL, ESWA
+- **Session Chair:**&nbsp; Interspeech (2023),
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2022.08 - 2023.01*, Research Scientist Intern, Bytedance AI Lab, Singapore.
