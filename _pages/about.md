@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am currently a postdoctoral research fellow with Speech Lab, College of Computing and Data Science, at Nanyang Technological University, supervised by Prof. [Eng Siong Chng](https://scholar.google.com/citations?hl=en&user=FJodrCcAAAAJ).  
-Prior to joining NTU Speech Lab, I received my Ph.D. under the supervision of Prof. [Andy W. H. Khong](https://scholar.google.com/citations?user=qnOioyYAAAAJ&hl=en) (EEE, Nanyang Technological University) and Dr. [Leibny Paola Garcia](https://scholar.google.com/citations?hl=en&user=fAXgPckAAAAJ&view_op=list_works&sortby=pubdate) (CLSP, The Johns Hopkins Univerisity). I work closely with Prof. [Suzy J. Styles](https://scholar.google.com.sg/citations?user=k96cKgsAAAAJ&hl=en) (NTU), Prof. [Sanjeev Khudanpur](https://scholar.google.com/citations?hl=en&user=K-BdgNwAAAAJ&view_op=list_works&sortby=pubdate) (JHU), and Prof. [Shinji Watanabe](https://scholar.google.com/citations?user=U5xRA6QAAAAJ&hl=en) (CMU).
+Prior to joining NTU Speech Lab, I received my Ph.D. from School of Electronic and Electrical Engineering at Nanyang Technological University, under the supervision of Prof. [Andy W. H. Khong](https://scholar.google.com/citations?user=qnOioyYAAAAJ&hl=en) (EEE, Nanyang Technological University) and Dr. [Leibny Paola Garcia](https://scholar.google.com/citations?hl=en&user=fAXgPckAAAAJ&view_op=list_works&sortby=pubdate) (CLSP, The Johns Hopkins Univerisity). I work closely with Prof. [Suzy J. Styles](https://scholar.google.com.sg/citations?user=k96cKgsAAAAJ&hl=en) (NTU), Prof. [Sanjeev Khudanpur](https://scholar.google.com/citations?hl=en&user=K-BdgNwAAAAJ&view_op=list_works&sortby=pubdate) (JHU), and Prof. [Shinji Watanabe](https://scholar.google.com/citations?user=U5xRA6QAAAAJ&hl=en) (CMU).
 
 My research topics are:
 
@@ -30,7 +30,7 @@ My research topics are:
 
 # 📖 Educations
 - *2018.08 - 2023.05*, Ph.D., Nanyang Technological University.  
-Thesis: [Enhancing spoken language identification and diarization for multilingual speech](https://dr.ntu.edu.sg/handle/10356/168498)  
+Thesis: [Enhancing Spoken Language Identification and Diarization for Multilingual Speech](https://dr.ntu.edu.sg/handle/10356/168498)  
 - *2017.08 - 2018.05*, Ms.C., Nanyang Technological University.  
 - *2012.09 - 2016.07*, B.Eng, Harbin Institute of Technology.  
 
