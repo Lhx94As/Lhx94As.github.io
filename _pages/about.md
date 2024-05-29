@@ -39,7 +39,7 @@ Thesis: [Enhancing spoken language identification and diarization for multilingu
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Preprint</span> [Mamba in Speech: Towards an Alternative to Self-Attention](https://arxiv.org/abs/2405.12609), Xiangyu Zhang\*, Qiquan Zhang\*, **<u>Hexin Liu</u>\***, Tianyi Xiao, Xinyuan Qian, Beena Ahmed, Eliathamby Ambikairajah, Haizhou Li, Julien Epps.
 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Preprint</span> [Aligning Speech to Languages to Enhance Code-switching Speech Recognition](https://arxiv.org/abs/2403.05887), **<u>Hexin Liu</u>**, Xiangyu Zhang, Leibny Paola Garcia, Andy WH Khong, Eng Siong Chng, Shinji Watanabe.
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Preprint</span> [Aligning Speech to Languages to Enhance Code-switching Speech Recognition](https://arxiv.org/abs/2403.05887), **<u>Hexin Liu</u>**, Xiangyu Zhang, Leibny Paola Garcia, Andy W.H. Khong, Eng Siong Chng, Shinji Watanabe.
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Preprint</span> [When LLMs Meets Acoustic Landmarks: An Efficient Approach to Integrate Speech into Large Language Models for Depression Detection](https://arxiv.org/abs/2402.13276), Xiangyu Zhang, **<u>Hexin Liu</u>**, Kaishuai Xu, Qiquan Zhang, Daijiao Liu, Beena Ahmed, Julien Epps.
 
@@ -55,11 +55,11 @@ Thesis: [Enhancing spoken language identification and diarization for multilingu
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2023</span> [PQLM - Multilingual Decentralized Portable Quantum Language Model](https://arxiv.org/abs/2405.12609), Shuyue Stella Li, Xiangyu Zhang, Shu Zhou, Hongchao Shu, Ruixing Liang, **<u>Hexin Liu</u>**, Leibny Paola Garcia.
 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2023</span> [Reducing Language Confusion for Code-switching Speech Recognition with Token-level Language Diarization](https://ieeexplore.ieee.org/abstract/document/10095878/), **<u>Hexin Liu</u>**, Haihua Xu, Leibny Paola Garcia, Andy WH Khong, Yi He, Sanjeev Khudanpur.
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2023</span> [Reducing Language Confusion for Code-switching Speech Recognition with Token-level Language Diarization](https://ieeexplore.ieee.org/abstract/document/10095878/), **<u>Hexin Liu</u>**, Haihua Xu, Leibny Paola Garcia, Andy W.H. Khong, Yi He, Sanjeev Khudanpur.
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Interspeech 2023</span><span style="color:red">(Oral)</span> [Investigating Model Performance in Language Identification: Beyond Simple Error Statistics](https://arxiv.org/abs/2305.18925), Suzy J. Styles, Victoria Y.H. Chua, Fei Ting Woon, **<u>Hexin Liu</u>**, Leibny Paola Garcia, Sanjeev Khudanpur, Andy W.H. Khong, Justin Dauwels.
 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Interspeech 2023</span><span style="color:red">(Oral)</span> [MERLIon CCS Challenge: A English-Mandarin code-switching child-directed speech corpus for language identification and diarization](https://arxiv.org/abs/2305.18881), Victoria YH Chua\*, **<u>Hexin Liu</u>\***, Leibny Paola Garcia, Fei Ting Woon, Jinyi Wong, Xiangyu Zhang, Sanjeev Khudanpur, Andy WH Khong, Justin Dauwels, Suzy J Styles.
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Interspeech 2023</span><span style="color:red">(Oral)</span> [MERLIon CCS Challenge: A English-Mandarin code-switching child-directed speech corpus for language identification and diarization](https://arxiv.org/abs/2305.18881), Victoria YH Chua\*, **<u>Hexin Liu</u>\***, Leibny Paola Garcia, Fei Ting Woon, Jinyi Wong, Xiangyu Zhang, Sanjeev Khudanpur, Andy W.H. Khong, Justin Dauwels, Suzy J Styles.
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Interspeech 2023</span> [Self-supervised Learning Representation based Accent Recognition with Persistent Accent Memory](https://arxiv.org/abs/2405.12609), Rui Li, Zhiwei Xie, Haihua Xu, Yizhou Peng, **<u>Hexin Liu</u>**, Hao Huang, Eng Siong Chng.
 
@@ -73,7 +73,7 @@ Thesis: [Enhancing spoken language identification and diarization for multilingu
 
 # 🧑‍🔬 Services
 - **Reviewer:**&nbsp; ICASSP (23-24), Interspeech (22-24), ASRU (22-24), SLT (22-24), TASLP, SPL, ESWA
-- **Session Chair:**&nbsp; Interspeech (2023),
+- **Session Chair:**&nbsp; Interspeech (2023)
 
 # 💻 Work experiences
 - *2022.08 - 2023.01*, Research Scientist Intern, Bytedance AI Lab, Singapore.
