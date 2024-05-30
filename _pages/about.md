@@ -75,7 +75,7 @@ Thesis: [Enhancing Spoken Language Identification and Diarization for Multilingu
 - **Reviewer:**&nbsp; ICASSP (23-24), Interspeech (22-24), ASRU (22-24), SLT (22-24), TASLP, SPL, ESWA
 - **Session Chair:**&nbsp; Interspeech (2023)
 
-# 💻 Work experiences
+# 💻 Work Experiences
 - *2022.08 - 2023.01*, Research Scientist Intern, Bytedance AI Lab, Singapore.
 - *2023.04 - 2023.08*, Research Associate, Delta-NTU Corp Lab, Nanyang Technological University.
 - *2023.09 - now*, Research Fellow, Speech Lab, Nanyang Technological University.
