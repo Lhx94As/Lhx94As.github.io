@@ -76,8 +76,12 @@ Supervisors: Prof. [Andy W. H. Khong](https://www3.ntu.edu.sg/home/andykhong/ind
 # 🧑‍🔬 Services
 - **Reviewer:**&nbsp; ICASSP (23-24), Interspeech (22-24), ASRU (22-24), SLT (22-24), TASLP, SPL, ESWA
 - **Session Chair:**&nbsp; Interspeech (2023)
+- **Others**&nbsp; Mentor in IEEE SLT 2022 Hackthon
 
 # 💻 Work Experiences
 - *2022.08 - 2023.01*, Research Scientist Intern, Bytedance AI Lab, Singapore.
 - *2023.04 - 2023.08*, Research Associate, Delta-NTU Corp Lab, Nanyang Technological University.
 - *2023.09 - now*, Research Fellow, Speech Lab, Nanyang Technological University.
+
+# 💬 Invited talks
+- *2024.6*，Seminar: Emerging Trends and Innovations in Machine Learning and AI, National University of Singapore
