@@ -84,4 +84,5 @@ Supervisors: Prof. [Andy W. H. Khong](https://www3.ntu.edu.sg/home/andykhong/ind
 - *2023.09 - now*, Research Fellow, Speech Lab, Nanyang Technological University.
 
 # 💬 Invited talks
-- *2024.06*，IEEE & APSIPA SG chapters joint Seminar: Emerging Trends and Innovations in Machine Learning and AI
+- *2024.06*，IEEE & APSIPA SG chapters joint Seminar: Emerging Trends and Innovations in Machine Learning and AI  
+Automatic speech recognition with large language models[slides](https://entuedu-my.sharepoint.com/:p:/g/personal/hexin_liu_staff_main_ntu_edu_sg/EfQ_BZ7VYQhNtJxnBLa_tEcB-U58SWRY_TKxKf8c8SkgKw?e=4B8Jlw)  
