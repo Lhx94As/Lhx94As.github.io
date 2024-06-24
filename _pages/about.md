@@ -33,7 +33,10 @@ My research topics are:
 Thesis: [Enhancing Spoken Language Identification and Diarization for Multilingual Speech](https://dr.ntu.edu.sg/handle/10356/168498)  
 Supervisors: Prof. [Andy W. H. Khong](https://www3.ntu.edu.sg/home/andykhong/index.htm) (NTU) & Dr. [Leibny Paola Garcia](https://www.clsp.jhu.edu/faculty/paola-garcia/) (JHU)  
 - *2017.08 - 2018.05*, Ms.C., Nanyang Technological University.  
+Computer control and automation, School of electronic and electrical engineering  
 - *2012.09 - 2016.07*, B.Eng, Harbin Institute of Technology.  
+Communication engineering, School of Electronics and Information Engineering.  
+Supervisor: Prof. [Chenguang He](https://homepage.hit.edu.cn/hechenguang)  
 
 
 # 📝 Publications 
