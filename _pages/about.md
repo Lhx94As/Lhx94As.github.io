@@ -52,7 +52,7 @@ Supervisor: Prof. [Chenguang He](https://homepage.hit.edu.cn/hechenguang)
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Preprint</span> [Generative error correction for code-switching speech recognition using large language models](https://arxiv.org/abs/2311.15954), Chen Chen, Yuchen Hu, Chao-Han Huck Yang, **<u>Hexin Liu</u>**, Sabato Marco Siniscalchi, Eng Siong Chng.
 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2024</span> [Enhancing Code-switching Speech Recognition with Interactive Language Biases](https://arxiv.org/pdf/2309.16953), **<u>Hexin Liu</u>**, Leibny Paola Garcia, Xiangyu Zhang, Andy WH Khong, Sanjeev Khudanpur.
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2024</span> [Enhancing Code-switching Speech Recognition with Interactive Language Biases](https://arxiv.org/pdf/2309.16953), **<u>Hexin Liu</u>**, Leibny Paola Garcia, Xiangyu Zhang, Andy W.H. Khong, Sanjeev Khudanpur.
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2024</span> [Unidirectional brain-computer interface: Artificial neural network encoding natural images to fMRI response in the visual cortex](https://ieeexplore.ieee.org/abstract/document/10446366/), Ruixing Liang, Xiangyu Zhang, Qiong Li, Lai Wei, **<u>Hexin Liu</u>**, Avisha Kumar, Kelley M Kempski Leadingham, Joshua Punnoose, Leibny Paola Garcia, Amir Manbachi.
 
@@ -75,9 +75,9 @@ Supervisor: Prof. [Chenguang He](https://homepage.hit.edu.cn/hechenguang)
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Interspeech 2021</span> [End-to-end language diarization for bilingual code-switching speech](https://www.researchgate.net/profile/Hexin_Liu6/publication/354221085_End-to-End_Language_Diarization_for_Bilingual_Code-Switching_Speech/links/613f238001846e45ef451003/End-to-End-Language-Diarization-for-Bilingual-Code-Switching-Speech.pdf), **<u>Hexin Liu</u>**, Leibny Paola Garcia, Xinyi Zhang, Justin Dauwels, Andy W.H. Khong, Sanjeev Khudanpur, Suzy J. Styles.
 
 # 🧑‍🔬 Services
-- **Reviewer:**&nbsp; ICASSP (23-24), Interspeech (22-24), ASRU (22-24), SLT (22-24), TASLP, SPL, ESWA
-- **Session Chair:**&nbsp; Interspeech (2023)
-- **Others**&nbsp; Mentor in IEEE SLT 2022 Hackthon
+- **Reviewer:**&nbsp; ICASSP(23-24), Interspeech(22-24), ASRU(22-24), SLT(22-24), COLING(24-25), TASLP, SPL, ESWA
+- **Session Chair:**&nbsp; Interspeech (2023), programm committee member(COLING 2025)  
+- **Others:**&nbsp; Mentor in IEEE SLT 2022 Hackthon   
 
 # 💻 Work Experiences
 - *2022.08 - 2023.01*, Research Scientist Intern, Bytedance AI Lab, Singapore.
