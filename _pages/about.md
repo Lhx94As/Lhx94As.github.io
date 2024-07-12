@@ -48,7 +48,7 @@ Supervisor: Prof. [Chenguang He](https://homepage.hit.edu.cn/hechenguang)
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Preprint</span> [Speaking in Wavelet Domain: A Simple and Efficient Approach to Speed up Speech Diffusion Model](https://arxiv.org/abs/2402.10642), Xiangyu Zhang, Daijiao Liu, **<u>Hexin Liu</u>**, Qiquan Zhang, Hanyu Meng, Leibny Paola Garcia, Eng Siong Chng, Lina Yao.
 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICNSLP</span> [A Quantitative Approach to Understand Self-Supervised Models as Cross-lingual Feature Extractors](https://arxiv.org/abs/2405.12609), Shuyue Stella Li, Beining Xu, Xiangyu Zhang, **<u>Hexin Liu</u>**, Wenhan Chao, Leibny Paola Garcia.
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICNSLP 2023</span> [A Quantitative Approach to Understand Self-Supervised Models as Cross-lingual Feature Extractors](https://arxiv.org/abs/2405.12609), Shuyue Stella Li, Beining Xu, Xiangyu Zhang, **<u>Hexin Liu</u>**, Wenhan Chao, Leibny Paola Garcia.
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Preprint</span> [Generative error correction for code-switching speech recognition using large language models](https://arxiv.org/abs/2311.15954), Chen Chen, Yuchen Hu, Chao-Han Huck Yang, **<u>Hexin Liu</u>**, Sabato Marco Siniscalchi, Eng Siong Chng.
 
