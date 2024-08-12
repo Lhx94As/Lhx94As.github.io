@@ -76,7 +76,7 @@ Supervisor: Prof. [Chenguang He](https://homepage.hit.edu.cn/hechenguang)
 
 # 🧑‍🔬 Services
 - **Reviewer:**&nbsp; ICASSP(23-24), Interspeech(22-24), ASRU(22-24), SLT(22-24), COLING(24-25), TASLP, SPL, ESWA
-- **Session Chair:**&nbsp; Interspeech (2023), programm committee member(COLING 2025)  
+- **Session Chair:**&nbsp; Interspeech (2023), programm committee member(COLING 2025), IALP (2024)  
 - **Others:**&nbsp; Mentor in IEEE SLT 2022 Hackthon   
 
 # 💻 Work Experiences
