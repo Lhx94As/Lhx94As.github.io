@@ -38,6 +38,10 @@ Supervisor: Prof. [Chenguang He](https://homepage.hit.edu.cn/hechenguang)
 
 
 # 📝 Publications 
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">IEEE TCE</span> [Selective State Space Model for Monaural Speech Enhancement](https://github.com/jessiewang-hongyan/hyperion/tree/persephone-refactor-pholid/egs/pho-lid/v1), Moran Chen, Qiquan Zhang, Mingjiang Wang, Xiangyu Zhang, **<u>Hexin Liu</u>**, Eliathamby Ambikairaiah, Deying Chen.
+
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2025</span> [Adapting Whisper for Code-Switching through Encoding Refining and Language-Aware Decoding](https://github.com/jessiewang-hongyan/hyperion/tree/persephone-refactor-pholid/egs/pho-lid/v1), Jiahui Zhao, Hao Shi, Chenrui Cui, Tianrui Wang, **<u>Hexin Liu</u>**, Zhaoheng Ni, Lingxuan Ye, Longbiao Wang.
+
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Interspeech 2024</span> [Bridging Child-Centered Speech Language Identification and Language Diarization via Phonetics](https://github.com/jessiewang-hongyan/hyperion/tree/persephone-refactor-pholid/egs/pho-lid/v1), Yujia Wang, **<u>Hexin Liu</u>**, Leibny Paola Garcia.
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Preprint</span> [Mamba in Speech: Towards an Alternative to Self-Attention](https://arxiv.org/abs/2405.12609), Xiangyu Zhang\*, Qiquan Zhang\*, **<u>Hexin Liu</u>\***, Tianyi Xiao, Xinyuan Qian, Beena Ahmed, Eliathamby Ambikairajah, Haizhou Li, Julien Epps.
@@ -75,8 +79,8 @@ Supervisor: Prof. [Chenguang He](https://homepage.hit.edu.cn/hechenguang)
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Interspeech 2021</span> [End-to-end language diarization for bilingual code-switching speech](https://www.researchgate.net/profile/Hexin_Liu6/publication/354221085_End-to-End_Language_Diarization_for_Bilingual_Code-Switching_Speech/links/613f238001846e45ef451003/End-to-End-Language-Diarization-for-Bilingual-Code-Switching-Speech.pdf), **<u>Hexin Liu</u>**, Leibny Paola Garcia, Xinyi Zhang, Justin Dauwels, Andy W.H. Khong, Sanjeev Khudanpur, Suzy J. Styles.
 
 # 🧑‍🔬 Services
-- **Reviewer:**&nbsp; ICASSP(23-24), Interspeech(22-24), ASRU(22-24), SLT(22-24), COLING(24-25), TASLP, SPL, ESWA
-- **Session Chair:**&nbsp; Interspeech (2023), programm committee member(COLING 2025), IALP (2024)  
+- **Reviewer:**&nbsp; ICASSP(23-24), Interspeech(2022-24), ASRU(2022-24), SLT(2022-24), COLING(2024-25), IEEE TASLP, SPL, ESWA
+- **Session Chair:**&nbsp; Interspeech (2023), APSIPA-TPC (2025-27), IALP (2024)  
 - **Others:**&nbsp; Mentor in IEEE SLT 2022 Hackthon   
 
 # 💻 Work Experiences
