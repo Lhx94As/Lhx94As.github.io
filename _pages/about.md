@@ -38,6 +38,8 @@ Supervisor: Prof. [Chenguang He](https://homepage.hit.edu.cn/hechenguang)
 
 
 # 📝 Publications 
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICLR</span> [GenSE: Generative Speech Enhancement via Language Models using Hierarchical Modeling](https://openreview.net/pdf?id=1p6xFLBU4J), Jixun Yao, **<u>Hexin Liu</u>**, Chen Chen, Yuchen Hu, Eng Siong Chng, Lei Xie.
+
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">IEEE TCE</span> [Selective State Space Model for Monaural Speech Enhancement](https://github.com/jessiewang-hongyan/hyperion/tree/persephone-refactor-pholid/egs/pho-lid/v1), Moran Chen, Qiquan Zhang, Mingjiang Wang, Xiangyu Zhang, **<u>Hexin Liu</u>**, Eliathamby Ambikairaiah, Deying Chen.
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2025</span> [Adapting Whisper for Code-Switching through Encoding Refining and Language-Aware Decoding](https://github.com/jessiewang-hongyan/hyperion/tree/persephone-refactor-pholid/egs/pho-lid/v1), Jiahui Zhao, Hao Shi, Chenrui Cui, Tianrui Wang, **<u>Hexin Liu</u>**, Zhaoheng Ni, Lingxuan Ye, Longbiao Wang.
