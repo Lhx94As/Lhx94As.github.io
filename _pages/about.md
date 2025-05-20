@@ -38,6 +38,8 @@ Supervisor: Prof. [Chenguang He](https://homepage.hit.edu.cn/hechenguang)
 
 
 # 📝 Publications 
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ACL Findings</span> [SpeechT-RAG: Reliable Depression Detection in LLMs with Retrieval-Augmented Generation Using Speech Timing Information](https://arxiv.org/abs/2411.07751), Xiangyu Zhang, **<u>Hexin Liu</u>\***, Qiquan Zhang, Beena Ahmed, Julien Epps.  
+
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">IEEE JSTSP</span> [SAV-SE: Scene-aware Audio-Visual Speech Enhancement with Selective State Space Model](https://arxiv.org/abs/2411.07751), Xinyuan Qian, Jiaran Gao, Yaodan Zhang, Qiquan Zhang, **<u>Hexin Liu</u>**, Leibny Paola Garcia, Haizhou Li.  
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICLR 2025</span> [GenSE: Generative Speech Enhancement via Language Models using Hierarchical Modeling](https://openreview.net/pdf?id=1p6xFLBU4J), Jixun Yao, **<u>Hexin Liu</u>**, Chen Chen, Yuchen Hu, Eng Siong Chng, Lei Xie.
