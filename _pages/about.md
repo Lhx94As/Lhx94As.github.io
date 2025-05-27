@@ -37,44 +37,20 @@ Supervisors: Prof. [Andy W. H. Khong](https://www3.ntu.edu.sg/home/andykhong/ind
 Supervisor: Prof. [Chenguang He](https://homepage.hit.edu.cn/hechenguang)  
 
 
-# 📝 Publications 
+# 📝 Selected Publications (first/corresponding author)  
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ACL Findings</span> [SpeechT-RAG: Reliable Depression Detection in LLMs with Retrieval-Augmented Generation Using Speech Timing Information](https://arxiv.org/abs/2502.10950), Xiangyu Zhang, **<u>Hexin Liu</u>\***, Qiquan Zhang, Beena Ahmed, Julien Epps.  
 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">IEEE JSTSP</span> [SAV-SE: Scene-aware Audio-Visual Speech Enhancement with Selective State Space Model](https://arxiv.org/abs/2411.07751), Xinyuan Qian, Jiaran Gao, Yaodan Zhang, Qiquan Zhang, **<u>Hexin Liu</u>**, Leibny Paola Garcia, Haizhou Li.  
-
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICLR 2025</span> [GenSE: Generative Speech Enhancement via Language Models using Hierarchical Modeling](https://openreview.net/pdf?id=1p6xFLBU4J), Jixun Yao, **<u>Hexin Liu</u>**, Chen Chen, Yuchen Hu, Eng Siong Chng, Lei Xie.
-
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">IEEE TCE</span> [Selective State Space Model for Monaural Speech Enhancement](https://github.com/jessiewang-hongyan/hyperion/tree/persephone-refactor-pholid/egs/pho-lid/v1), Moran Chen, Qiquan Zhang, Mingjiang Wang, Xiangyu Zhang, **<u>Hexin Liu</u>**, Eliathamby Ambikairaiah, Deying Chen.
-
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2025</span> [Adapting Whisper for Code-Switching through Encoding Refining and Language-Aware Decoding](https://github.com/jessiewang-hongyan/hyperion/tree/persephone-refactor-pholid/egs/pho-lid/v1), Jiahui Zhao, Hao Shi, Chenrui Cui, Tianrui Wang, **<u>Hexin Liu</u>**, Zhaoheng Ni, Lingxuan Ye, Longbiao Wang.
-
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Interspeech 2024</span> [Bridging Child-Centered Speech Language Identification and Language Diarization via Phonetics](https://github.com/jessiewang-hongyan/hyperion/tree/persephone-refactor-pholid/egs/pho-lid/v1), Yujia Wang, **<u>Hexin Liu</u>**, Leibny Paola Garcia.
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">IEEE TASLP</span> [A Two-Stage LoRA Strategy for Expanding Language Capabilities in Multilingual ASR Models](https://arxiv.org/abs/2405.12609), Chin Yuen Kwok, **<u>Hexin Liu</u>\***, Jia Qi Yip, Sheng Li, Eng Siong Chng.
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">IEEE TASLP</span> [Mamba in Speech: Towards an Alternative to Self-Attention](https://arxiv.org/abs/2405.12609), Xiangyu Zhang\*, Qiquan Zhang\*, **<u>Hexin Liu</u>\***, Tianyi Xiao, Xinyuan Qian, Beena Ahmed, Eliathamby Ambikairajah, Haizhou Li, Julien Epps.
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Preprint</span> [Aligning Speech to Languages to Enhance Code-switching Speech Recognition](https://arxiv.org/abs/2403.05887), **<u>Hexin Liu</u>**, Xiangyu Zhang, Leibny Paola Garcia, Andy W.H. Khong, Eng Siong Chng, Shinji Watanabe.
 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">EMNLP 2024</span> [When LLMs Meets Acoustic Landmarks: An Efficient Approach to Integrate Speech into Large Language Models for Depression Detection](https://arxiv.org/abs/2402.13276), Xiangyu Zhang, **<u>Hexin Liu</u>**, Kaishuai Xu, Qiquan Zhang, Daijiao Liu, Beena Ahmed, Julien Epps.
-
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">EMNLP 2024</span> [Speaking in Wavelet Domain: A Simple and Efficient Approach to Speed up Speech Diffusion Model](https://arxiv.org/abs/2402.10642), Xiangyu Zhang, Daijiao Liu, **<u>Hexin Liu</u>**, Qiquan Zhang, Hanyu Meng, Leibny Paola Garcia, Eng Siong Chng, Lina Yao.
-
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICNSLP 2023</span> [A Quantitative Approach to Understand Self-Supervised Models as Cross-lingual Feature Extractors](https://arxiv.org/abs/2405.12609), Shuyue Stella Li, Beining Xu, Xiangyu Zhang, **<u>Hexin Liu</u>**, Wenhan Chao, Leibny Paola Garcia.
-
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Preprint</span> [Generative error correction for code-switching speech recognition using large language models](https://arxiv.org/abs/2311.15954), Chen Chen, Yuchen Hu, Chao-Han Huck Yang, **<u>Hexin Liu</u>**, Sabato Marco Siniscalchi, Eng Siong Chng.
-
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2024</span> [Enhancing Code-switching Speech Recognition with Interactive Language Biases](https://arxiv.org/pdf/2309.16953), **<u>Hexin Liu</u>**, Leibny Paola Garcia, Xiangyu Zhang, Andy W.H. Khong, Sanjeev Khudanpur.
 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2024</span> [Unidirectional brain-computer interface: Artificial neural network encoding natural images to fMRI response in the visual cortex](https://ieeexplore.ieee.org/abstract/document/10446366/), Ruixing Liang, Xiangyu Zhang, Qiong Li, Lai Wei, **<u>Hexin Liu</u>**, Avisha Kumar, Kelley M Kempski Leadingham, Joshua Punnoose, Leibny Paola Garcia, Amir Manbachi.
-
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2023</span> [PQLM - Multilingual Decentralized Portable Quantum Language Model](https://arxiv.org/abs/2405.12609), Shuyue Stella Li, Xiangyu Zhang, Shu Zhou, Hongchao Shu, Ruixing Liang, **<u>Hexin Liu</u>**, Leibny Paola Garcia.
-
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2023</span> [Reducing Language Confusion for Code-switching Speech Recognition with Token-level Language Diarization](https://ieeexplore.ieee.org/abstract/document/10095878/), **<u>Hexin Liu</u>**, Haihua Xu, Leibny Paola Garcia, Andy W.H. Khong, Yi He, Sanjeev Khudanpur.
-
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Interspeech 2023</span><span style="color:red">(Oral)</span> [Investigating Model Performance in Language Identification: Beyond Simple Error Statistics](https://arxiv.org/abs/2305.18925), Suzy J. Styles, Victoria Y.H. Chua, Fei Ting Woon, **<u>Hexin Liu</u>**, Leibny Paola Garcia, Sanjeev Khudanpur, Andy W.H. Khong, Justin Dauwels.
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2023</span> [Reducing Language Confusion for Code-switching Speech Recognition with Token-level Language Diarization](https://ieeexplore.ieee.org/abstract/document/10095878/), **<u>Hexin Liu</u>**, Haihua Xu, Leibny Paola Garcia, Andy W.H. Khong, Yi He, Sanjeev Khudanpur.  
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Interspeech 2023</span> [MERLIon CCS Challenge: A English-Mandarin code-switching child-directed speech corpus for language identification and diarization](https://arxiv.org/abs/2305.18881), Victoria YH Chua\*, **<u>Hexin Liu</u>\***, Leibny Paola Garcia, Fei Ting Woon, Jinyi Wong, Xiangyu Zhang, Sanjeev Khudanpur, Andy W.H. Khong, Justin Dauwels, Suzy J Styles.
-
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Interspeech 2023</span> [Self-supervised Learning Representation based Accent Recognition with Persistent Accent Memory](https://arxiv.org/abs/2405.12609), Rui Li, Zhiwei Xie, Haihua Xu, Yizhou Peng, **<u>Hexin Liu</u>**, Hao Huang, Eng Siong Chng.
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">IEEE JSTSP</span> [Efficient self-supervised learning representations for spoken language identification](https://ieeexplore.ieee.org/abstract/document/9866521/), **<u>Hexin Liu</u>**, Leibny Paola Garcia, Andy W.H. Khong, Eng Siong Chng, Suzy J. Styles, Sanjeev Khudanpur.
 
