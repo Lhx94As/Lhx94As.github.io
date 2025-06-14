@@ -26,7 +26,7 @@ My research topics are:
 
 - **Speech Recognition:** Code-switching and multilingual speech recognition
 
-- **Large-scale Pre-trained Model:** Adaptation and application methods for large-scale pre-trained models
+- **Large-scale Pre-trained Model:** Speech/Audio-LLM and other LLM-based applications
 
 # 📖 Educations
 - *2018.08 - 2023.05*, Ph.D., Nanyang Technological University.  
