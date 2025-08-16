@@ -66,9 +66,10 @@ Supervisor: Prof. [Chenguang He](https://homepage.hit.edu.cn/hechenguang)
 - **Others:**&nbsp; Mentor in IEEE SLT 2022 Hackthon   
 
 # 💻 Work Experiences
+- *2016.09 - 2017.02*, Research Assistant, Harbin Institute of Technology, supervisor: Prof. Chenguang He.
 - *2022.08 - 2023.01*, Research Scientist Intern, Bytedance AI Lab, Singapore.
-- *2023.04 - 2023.08*, Research Associate, Delta-NTU Corp Lab, Nanyang Technological University.
-- *2023.09 - now*, Research Fellow, Speech Lab, Nanyang Technological University.
+- *2023.04 - 2023.08*, Research Associate, Delta-NTU Corp Lab, Nanyang Technological University, supervisor: Prof. Andy W.H. Khong.
+- *2023.09 - now*, Research Fellow, Speech Lab, Nanyang Technological University, supervisor: Prof. Eng Siong Chng.
 
 # 💬 Invited talks
 - *2024.06*，IEEE & APSIPA SG chapters joint Seminar: Emerging Trends and Innovations in Machine Learning and AI  
