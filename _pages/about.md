@@ -72,6 +72,7 @@ Supervisor: Prof. [Chenguang He](https://homepage.hit.edu.cn/hechenguang)
 - *2023.04 - 2023.08*, Research Associate, Delta-NTU Corp Lab, Nanyang Technological University, supervisor: Prof. Andy W.H. Khong.
 - *2023.09 - now*, Research Fellow, Speech Lab, Nanyang Technological University, supervisor: Prof. Eng Siong Chng.
 
-# 💬 Invited talks
+# 💬 Invited talks and awards
 - *2024.06*，IEEE & APSIPA SG chapters joint Seminar: Emerging Trends and Innovations in Machine Learning and AI  
-Automatic speech recognition with large language models [[slides]](https://entuedu-my.sharepoint.com/:p:/g/personal/hexin_liu_staff_main_ntu_edu_sg/EfQ_BZ7VYQhNtJxnBLa_tEcB-U58SWRY_TKxKf8c8SkgKw?e=4B8Jlw)  
+Automatic speech recognition with large language models [[slides]](https://entuedu-my.sharepoint.com/:p:/g/personal/hexin_liu_staff_main_ntu_edu_sg/EfQ_BZ7VYQhNtJxnBLa_tEcB-U58SWRY_TKxKf8c8SkgKw?e=4B8Jlw)
+- *APSIPA 2025*, Best student paper award: "Explainable Disentanglement on Discrete Speech Representations for Noise-Robust ASR"
