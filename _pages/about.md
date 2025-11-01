@@ -40,7 +40,7 @@ Supervisor: Prof. [Chenguang He](https://homepage.hit.edu.cn/hechenguang)
 # 📝 Publications
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ACL 2025 Findings</span> [SpeechT-RAG: Reliable Depression Detection in LLMs with Retrieval-Augmented Generation Using Speech Timing Information](https://arxiv.org/abs/2502.10950), Xiangyu Zhang, **<u>Hexin Liu</u><sup>†</sup>**, Qiquan Zhang, Beena Ahmed, Julien Epps.  
 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">IEEE TASLP2025</span> [A Two-Stage LoRA Strategy for Expanding Language Capabilities in Multilingual ASR Models](https://arxiv.org/abs/2405.12609), Chin Yuen Kwok, **<u>Hexin Liu</u><sup>†</sup>**, Jia Qi Yip, Sheng Li, Eng Siong Chng.
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">IEEE TASLP 2025</span> [A Two-Stage LoRA Strategy for Expanding Language Capabilities in Multilingual ASR Models](https://arxiv.org/abs/2405.12609), Chin Yuen Kwok, **<u>Hexin Liu</u><sup>†</sup>**, Jia Qi Yip, Sheng Li, Eng Siong Chng.
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">IEEE TASLP 2025</span> [Mamba in Speech: Towards an Alternative to Self-Attention](https://arxiv.org/abs/2405.12609), Xiangyu Zhang\*, Qiquan Zhang\*, **<u>Hexin Liu</u><sup>†</sup>***, Tianyi Xiao, Xinyuan Qian, Beena Ahmed, Eliathamby Ambikairajah, Haizhou Li, Julien Epps.
 
