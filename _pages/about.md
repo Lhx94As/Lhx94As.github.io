@@ -38,7 +38,7 @@ Supervisor: Prof. [Chenguang He](https://homepage.hit.edu.cn/hechenguang)
 
 
 # 📝 Publications
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">preprint</span> [Code-switching Speech Recognition Under the Lens: Model- and Data-Centric Perspectives](https://arxiv.org/abs/2509.24310), **<u>Hexin Liu</u>**, Haoyang Zhang, Qiquan Zhang, Xiangyu Zhang, Dongyuan Shi, Eng Siong Chng, Haizhou Li.
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Preprint</span> [Code-switching Speech Recognition Under the Lens: Model- and Data-Centric Perspectives](https://arxiv.org/abs/2509.24310), **<u>Hexin Liu</u>**, Haoyang Zhang, Qiquan Zhang, Xiangyu Zhang, Dongyuan Shi, Eng Siong Chng, Haizhou Li.
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">IEEE TASLP 2025</span> [A Two-Stage LoRA Strategy for Expanding Language Capabilities in Multilingual ASR Models](https://arxiv.org/abs/2405.12609), Chin Yuen Kwok, **<u>Hexin Liu</u><sup>†</sup>**, Jia Qi Yip, Sheng Li, Eng Siong Chng.
 
