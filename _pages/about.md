@@ -38,7 +38,7 @@ Supervisor: Prof. [Chenguang He](https://homepage.hit.edu.cn/hechenguang)
 
 
 # 📝 Publications
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ACL 2025 Findings</span> [SpeechT-RAG: Reliable Depression Detection in LLMs with Retrieval-Augmented Generation Using Speech Timing Information](https://arxiv.org/abs/2502.10950), Xiangyu Zhang, **<u>Hexin Liu</u><sup>†</sup>**, Qiquan Zhang, Beena Ahmed, Julien Epps.  
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">preprint</span> [Code-switching Speech Recognition Under the Lens: Model- and Data-Centric Perspectives](https://arxiv.org/abs/2509.24310), **<u>Hexin Liu</u>**, Haoyang Zhang, Qiquan Zhang, Xiangyu Zhang, Dongyuan Shi, Eng Siong Chng, Haizhou Li.
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">IEEE TASLP 2025</span> [A Two-Stage LoRA Strategy for Expanding Language Capabilities in Multilingual ASR Models](https://arxiv.org/abs/2405.12609), Chin Yuen Kwok, **<u>Hexin Liu</u><sup>†</sup>**, Jia Qi Yip, Sheng Li, Eng Siong Chng.
 
@@ -46,15 +46,17 @@ Supervisor: Prof. [Chenguang He](https://homepage.hit.edu.cn/hechenguang)
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">IEEE TASLP 2025</span> [Aligning Speech to Languages to Enhance Code-switching Speech Recognition](https://arxiv.org/abs/2403.05887), **<u>Hexin Liu</u>**, Xiangyu Zhang, Haoyang Zhang, Leibny Paola Garcia, Andy W.H. Khong, Eng Siong Chng, Shinji Watanabe.
 
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">IEEE JSTSP 2022</span> [Efficient self-supervised learning representations for spoken language identification](https://ieeexplore.ieee.org/abstract/document/9866521/), **<u>Hexin Liu</u>**, Leibny Paola Garcia, Andy W.H. Khong, Eng Siong Chng, Suzy J. Styles, Sanjeev Khudanpur.
+
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">AAAI 2026</span> [Hearing More with Less: Multi-Modal Retrieval-and-Selection Augmented Conversational LLM-Based ASR](https://arxiv.org/abs/2508.01166), Bingshen Mu, **<u>Hexin Liu</u><sup>†</sup>**, Hongfei Xue, Kun Wei, Lei Xie.
+
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ACL 2025 Findings</span> [SpeechT-RAG: Reliable Depression Detection in LLMs with Retrieval-Augmented Generation Using Speech Timing Information](https://arxiv.org/abs/2502.10950), Xiangyu Zhang, **<u>Hexin Liu</u><sup>†</sup>**, Qiquan Zhang, Beena Ahmed, Julien Epps.  
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2024</span> [Enhancing Code-switching Speech Recognition with Interactive Language Biases](https://arxiv.org/pdf/2309.16953), **<u>Hexin Liu</u>**, Leibny Paola Garcia, Xiangyu Zhang, Andy W.H. Khong, Sanjeev Khudanpur.
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2023</span> [Reducing Language Confusion for Code-switching Speech Recognition with Token-level Language Diarization](https://ieeexplore.ieee.org/abstract/document/10095878/), **<u>Hexin Liu</u>**, Haihua Xu, Leibny Paola Garcia, Andy W.H. Khong, Yi He, Sanjeev Khudanpur.  
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Interspeech 2023</span> [MERLIon CCS Challenge: A English-Mandarin code-switching child-directed speech corpus for language identification and diarization](https://arxiv.org/abs/2305.18881), Victoria YH Chua\*, **<u>Hexin Liu</u>\***, Leibny Paola Garcia, Fei Ting Woon, Jinyi Wong, Xiangyu Zhang, Sanjeev Khudanpur, Andy W.H. Khong, Justin Dauwels, Suzy J Styles.
-
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">IEEE JSTSP 2022</span> [Efficient self-supervised learning representations for spoken language identification](https://ieeexplore.ieee.org/abstract/document/9866521/), **<u>Hexin Liu</u>**, Leibny Paola Garcia, Andy W.H. Khong, Eng Siong Chng, Suzy J. Styles, Sanjeev Khudanpur.
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Odyssey 2022</span> [Enhancing Language Identification using Dual-mode Model with Knowledge Distillation](https://www.researchgate.net/profile/Hexin_Liu6/publication/361591322_Enhancing_Language_Identification_Using_Dual-Mode_Model_with_Knowledge_Distillation/links/639f1bdfe42faa7e75d362df/Enhancing-Language-Identification-Using-Dual-Mode-Model-with-Knowledge-Distillation.pdf), **<u>Hexin Liu</u>**, Leibny Paola Garcia, Andy W.H. Khong, Justin Dauwels, Suzy J. Styles, Sanjeev Khudanpur.
 
