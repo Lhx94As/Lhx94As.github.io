@@ -2,12 +2,16 @@
 main:
   - title: "About Me"
     url: "/#about-me"
+    
+  - title: "Educations"
+    url: "/#-educations"
 
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Educations"
-    url: "/#-educations"
-
   - title: "Work Experiences"
     url: "/#-work-experiences"
+    
+  - title: "Invited talks and awards"
+    url: "/#-invited-talks-and-awards"
+
