@@ -48,7 +48,9 @@ Supervisor: Prof. [Chenguang He](https://homepage.hit.edu.cn/hechenguang)
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">IEEE JSTSP 2022</span> [Efficient self-supervised learning representations for spoken language identification](https://ieeexplore.ieee.org/abstract/document/9866521/), **<u>Hexin Liu</u>**, Leibny Paola Garcia, Andy W.H. Khong, Eng Siong Chng, Suzy J. Styles, Sanjeev Khudanpur.
 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Interspeech 2026</span> [Hearing More with Less: Multi-Modal Retrieval-and-Selection Augmented Conversational LLM-Based ASR](https://arxiv.org/abs/2508.01166), Shreyas Gopal, Donghang Wu, Ashutosh Anshul, Yeo Yue Heng, Yizhou Peng, Haoyang Li, **<u>Hexin Liu</u><sup>†</sup>**, Eng Siong Chng.  
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Interspeech 2026</span> [Language-Aware Distillation for Multilingual Instruction-Following Speech LLMs with ASR-Only Supervision](https://arxiv.org/abs/2603.07025), Shreyas Gopal, Donghang Wu, Ashutosh Anshul, Yeo Yue Heng, Yizhou Peng, Haoyang Li, **<u>Hexin Liu</u><sup>†</sup>**, Eng Siong Chng.
+
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Interspeech 2026</span> [Improving Code-Switching ASR with Code-Mixing Guided Synthetic Speech](https://arxiv.org/abs/2508.01166), Yue Heng Yeo, Haoyang Li, Yizhou Peng, Shreyas Gopal, **<u>Hexin Liu</u><sup>†</sup>**, Leibny Paola Garcia-Perera, Hardik B. Sailor, Jeremy H. M. Wong, Eng Siong Chng.  
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">AAAI 2026</span> [Hearing More with Less: Multi-Modal Retrieval-and-Selection Augmented Conversational LLM-Based ASR](https://arxiv.org/abs/2508.01166), Bingshen Mu, **<u>Hexin Liu</u><sup>†</sup>**, Hongfei Xue, Kun Wei, Lei Xie.  
 
