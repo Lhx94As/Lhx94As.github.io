@@ -85,6 +85,6 @@ Supervisor: Prof. [Chenguang He](https://homepage.hit.edu.cn/hechenguang)
 # 💬 Invited talks and awards
 - *2024.06*，IEEE & APSIPA SG chapters joint Seminar: Emerging Trends and Innovations in Machine Learning and AI  
 Automatic speech recognition with large language models [[slides]](https://entuedu-my.sharepoint.com/:p:/g/personal/hexin_liu_staff_main_ntu_edu_sg/EfQ_BZ7VYQhNtJxnBLa_tEcB-U58SWRY_TKxKf8c8SkgKw?e=4B8Jlw)
-- *Interspeech 2026*, Tutorial: [Advances in Data-Efficient Multilingual and Crosslingual Speech Recognition Powered by LLMs](https://interspeech2026.org/en-AU/pages/programme/tutorials)
+- *Interspeech 2026*, Tutorial: Advances in Data-Efficient Multilingual and Crosslingual Speech Recognition Powered by LLMs [website](https://interspeech2026.org/en-AU/pages/programme/tutorials)  
 - *APSIPA 2025*, Best student paper award: "Explainable Disentanglement on Discrete Speech Representations for Noise-Robust ASR"
 
