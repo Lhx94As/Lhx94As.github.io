@@ -38,6 +38,7 @@ Supervisor: Prof. [Chenguang He](https://homepage.hit.edu.cn/hechenguang)
 
 
 # 📝 Publications
+Selected Journals:   
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">IEEE TASLP 2026</span> [Code-switching Speech Recognition Under the Lens: Model- and Data-Centric Perspectives](https://arxiv.org/abs/2509.24310), **<u>Hexin Liu</u>**, Haoyang Zhang, Qiquan Zhang, Xiangyu Zhang, Dongyuan Shi, Eng Siong Chng, Haizhou Li.
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">IEEE TASLP 2025</span> [A Two-Stage LoRA Strategy for Expanding Language Capabilities in Multilingual ASR Models](https://ieeexplore.ieee.org/document/11030302), Chin Yuen Kwok, **<u>Hexin Liu</u><sup>†</sup>**, Jia Qi Yip, Sheng Li, Eng Siong Chng.
@@ -48,6 +49,7 @@ Supervisor: Prof. [Chenguang He](https://homepage.hit.edu.cn/hechenguang)
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">IEEE JSTSP 2022</span> [Efficient self-supervised learning representations for spoken language identification](https://ieeexplore.ieee.org/abstract/document/9866521/), **<u>Hexin Liu</u>**, Leibny Paola Garcia, Andy W.H. Khong, Eng Siong Chng, Suzy J. Styles, Sanjeev Khudanpur.
 
+Selected Conferences:   
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Interspeech 2026</span> [Improving Code-Switching ASR with Code-Mixing Guided Synthetic Speech](https://arxiv.org/abs/2508.01166), Yue Heng Yeo, Haoyang Li, Yizhou Peng, Shreyas Gopal, **<u>Hexin Liu</u><sup>†</sup>**, Leibny Paola Garcia-Perera, Hardik B. Sailor, Jeremy H. M. Wong, Eng Siong Chng.  
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">AAAI 2026</span> [Hearing More with Less: Multi-Modal Retrieval-and-Selection Augmented Conversational LLM-Based ASR](https://arxiv.org/abs/2508.01166), Bingshen Mu, **<u>Hexin Liu</u><sup>†</sup>**, Hongfei Xue, Kun Wei, Lei Xie.  
